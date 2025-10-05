@@ -11,7 +11,8 @@ Tela inicial:
 
 
 Jogo em andamento:
-![Jogo Rodando](./images/jogo-rodando.png)
+<img width="522" height="597" alt="image" src="https://github.com/user-attachments/assets/e4e462b8-38be-42db-8438-0d53327a62e6" />
+
 
 ---
 
